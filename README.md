@@ -10,7 +10,7 @@
 - Secure Network Design & Landing Zones
 - Kubernetes (EKS/AKS), Service Mesh (Istio)
 - API-First Microservices Architecture
-- Infrastructure as Code (Terraform, ARM, Bicep)
+- Infrastructure as Code (Terraform, ARM, Cloudformation, Bicep)
 - Programming in Python, Go, and C#
 - CI/CD, GitOps, and Infrastructure Automation
 - AI/ML Infrastructure & MLOps (learning in progress)
