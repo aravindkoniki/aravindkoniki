@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aravind Koniki</h1>
-<h3 align="center">Cloud & Solution Architect | AWS & Azure | Kubernetes | Terraform | Microservices | DevOps | Infra Automation</h3>
+<h3 align="center">Cloud & Solution Architect | AWS & Azure | Kubernetes | Terraform | Microservices | DevOps | Infra Automation | API Design & Development</h3>
 
 ---
 
